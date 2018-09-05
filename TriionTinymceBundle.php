@@ -1,12 +1,12 @@
 <?php
 
-namespace triion\Bundle\TinymceBundle;
+namespace Triion\Bundle\TinymceBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 /**
  * TinymceBundle integration
  */
-class triionTinymceBundle extends Bundle
+class TriionTinymceBundle extends Bundle
 {
 }

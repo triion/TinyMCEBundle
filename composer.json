@@ -11,10 +11,9 @@
     },
     "autoload": {
         "psr-0": {
-            "triion\\Bundle\\TinymceBundle": ""
+            "Triion\\Bundle\\TinymceBundle": ""
         }
     },
-    "target-dir" : "triion/Bundle/TinymceBundle",
     "extra": {
         "branch-alias": {
             "dev-master": "1.x-dev"
