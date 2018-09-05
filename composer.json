@@ -2,7 +2,7 @@
     "name": "triion/tinymcebundle",
     "description": "This Bundle integrates TinyMCE WYSIWYG editor into a Symfony4 project as bundle only.",
     "keywords": ["wysiwyg", "tinymce", "editor", "symfony4", "bundle", "tinymce v4.8.2"],
-    "homepage": "https://github.com/triion/TinymceBundle",
+    "homepage": "https://github.com/triion/TinyMCEBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "require": {

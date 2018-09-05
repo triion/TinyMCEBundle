@@ -7,6 +7,6 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 /**
  * TinymceBundle integration
  */
-class TriionTinymceBundle extends Bundle
+class triionTinymceBundle extends Bundle
 {
 }
