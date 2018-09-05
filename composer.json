@@ -10,13 +10,8 @@
         "symfony/framework-bundle": "^3.4||^4.0"
     },
     "autoload": {
-        "psr-0": {
-            "triion\\Bundle\\TinymceBundle": ""
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.x-dev"
+        "psr-4": {
+            "triion\\TinymceBundle\\": ""
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace triion\Bundle\TinymceBundle;
+namespace triion\TinymceBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
